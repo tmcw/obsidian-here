@@ -40,6 +40,8 @@ good places to start could be:
 
 ## Development
 
+This plugin is not published to the Obsidian community plugins yet.
+
 This is nearly the Obsidian template, so you don't need anything special. If you use
 [mise](https://mise.jdx.dev/), you can auto-install Node & PNPM. Otherwise, this works
 with Node (most recent versions) and PNPM 9 to install dependencies, but if you install
