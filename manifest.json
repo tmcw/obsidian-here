@@ -1,0 +1,10 @@
+{
+	"id": "here",
+	"name": "Here",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Obsidian for places",
+	"author": "Obsidian",
+	"authorUrl": "https://macwright.com/",
+	"isDesktopOnly": false
+}
