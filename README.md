@@ -4,6 +4,11 @@ This is another ingredient of an [Obsidian](https://obsidian.md/) setup that's g
 enabled. This plugin lets Obsidian find nearby notes: notes that have a `location` property
 with latitude & longitude.
 
+I keep a lot of notes like `Places/Beer Witch.md` for a bar or another place, and I'll jot
+down thoughts or experiences in those places, or reference them from my Daily Note if I go
+to them. This plugin helps with that workflow by making it easier to find or create a note
+for a place where you currently are at.
+
 **The catch** is that Obsidian does not [allow Geolocation APIs](https://forum.obsidian.md/t/enable-geolocation-apis-for-mobile-and-desktop/31750/4), so
 to get an idea of "here", you need another ingredient. Thankfully, there are ways. See
 the [`shortcut` directory of this repository](https://github.com/tmcw/obsidian-here/tree/main/shortcut) for an Apple Shortcut called **Here** which you
